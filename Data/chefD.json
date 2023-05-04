@@ -1,0 +1,176 @@
+[
+      {
+        "id": 1,
+        "name": "Zeynel Usta",
+        "picture": "https://images.pexels.com/photos/14811401/pexels-photo-14811401.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "experience": 20,
+        "likes": 25000,
+        "description": "Zeynel Usta is a Turkish chef and restaurateur. With over 20 years of experience in the culinary industry, he is known for his traditional and authentic approach to Turkish cuisine.",
+        "num_recipes": 3,
+        "recipes": [
+          {
+            "name": "Adana Kebap",
+            "ingredients": ["ground lamb", "onion", "garlic", "spices", "pita bread"],
+            "method": "Mix ground lamb with onion, garlic, and spices, then shape onto skewers. Grill or broil until cooked through, then serve with pita bread and salad.",
+            "rating": 4.8
+          },
+          {
+            "name": "Menemen",
+            "ingredients": ["eggs", "tomatoes", "peppers", "onion", "spices"],
+            "method": "Sauté onion, peppers, and tomatoes in a pan, then crack eggs into the mixture. Cook until the eggs are set, then season with spices. Serve with bread.",
+            "rating": 4.5
+          },
+          {
+            "name": "Baklava",
+            "ingredients": ["phyllo dough", "walnuts", "sugar", "butter", "honey"],
+            "method": "Layer phyllo dough with a mixture of ground walnuts, sugar, and butter. Bake in the oven, then drizzle with honey syrup. Serve with Turkish tea.",
+            "rating": 4.9
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Hüseyin Şimşek",
+        "picture": "https://images.pexels.com/photos/12419037/pexels-photo-12419037.png?auto=compress&cs=tinysrgb&w=1600",
+        "experience": 15,
+        "likes": 20000,
+        "description": "Hüseyin Şimşek is a Turkish chef and cookbook author. With over 15 years of experience in the culinary industry, he is known for his modern and creative approach to Turkish cuisine.",
+        "num_recipes": 3,
+        "recipes": [
+          {
+            "name": "Manti",
+            "ingredients": ["ground beef", "flour", "egg", "yogurt", "tomato sauce"],
+            "method": "Mix ground beef with spices, then form into small dumplings. Boil the dumplings in salted water until cooked through, then serve with yogurt and tomato sauce.",
+            "rating": 4.9
+          },
+          {
+            "name": "Lahmacun",
+            "ingredients": ["ground beef", "tomatoes", "onion", "peppers", "spices"],
+            "method": "Mix ground beef with tomato, onion, and pepper paste, as well as spices. Spread the mixture onto flatbread, then bake in the oven until crispy. Serve with parsley and lemon wedges.",
+            "rating": 4.6
+          },
+          {
+            "name": "Revani",
+            "ingredients": ["semolina", "sugar", "eggs", "butter", "lemon"],
+            "method": "Mix semolina, sugar, eggs, and melted butter together until smooth, then pour into a buttered baking dish. Bake in the oven until golden brown, then pour a lemon syrup over the top. Serve with whipped cream.",
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Selin Çetin",
+        "picture": "https://media.istockphoto.com/id/1179799425/photo/young-chef-with-crossed-arms-in-front-of-kitchen.jpg?s=612x612&w=0&k=20&c=t8QiLoWtn3HG_jMdft6jbYAFFNqqHzEtYISCxMCtaAU=",
+        "experience": 10,
+        "likes": 15000,
+        "description": "Selin Çetin is a Turkish chef and food blogger. With over 10 years of experience in the culinary industry, she is known for her fresh and healthy approach to Turkish cuisine.",
+        "num_recipes": 3,
+        "recipes": [
+          {
+            "name": "Çoban Salatası",
+            "ingredients": ["tomatoes", "cucumbers", "onion", "peppers", "parsley"],
+            "method": "Chop tomatoes, cucumbers, onion, and peppers, then mix together with parsley. Dress with olive oil and lemon juice, then season with salt and pepper.",
+            "rating": 4.7
+          },
+          {
+            "name": "Tavuklu Pilav",
+            "ingredients": ["rice", "chicken broth", "chicken breast", "peas", "carrots"],
+            "method": "Sauté chicken breast inoil until cooked through, then remove from pan. In the same pan, sauté rice until lightly browned, then add chicken broth, peas, and carrots. Bring to a boil, then reduce heat and simmer until the rice is cooked. Stir in the cooked chicken, then serve hot.",
+            "rating": 4.5
+          },
+          {
+            "name": "Cevizli Ekmek",
+            "ingredients": ["flour", "yeast", "sugar", "salt", "walnuts"],
+            "method": "Mix flour, yeast, sugar, and salt together, then add water and knead until smooth. Let rise, then shape into a loaf and bake in the oven. Once baked, sprinkle with chopped walnuts and serve warm.",
+            "rating": 4.6
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Burak Özdemir",
+        "picture": "https://media.istockphoto.com/id/1359520823/photo/chef-offers-his-prepared-vegetarian-pizza.jpg?s=612x612&w=0&k=20&c=Y6jzOk4sGZVHc213TfHa_9l0u2yT8JKSTikBftywyLA=",
+        "experience": 8,
+        "likes": 10000,
+        "description": "Burak Özdemir is a Turkish chef and social media influencer. With over 8 years of experience in the culinary industry, he is known for his playful and entertaining approach to Turkish cuisine.",
+        "num_recipes": 3,
+        "recipes": [
+          {
+            "name": "Köfte",
+            "ingredients": ["ground beef", "onion", "garlic", "spices", "sauce"],
+            "method": "Mix ground beef with onion, garlic, and spices, then form into patties. Grill or fry until cooked through, then serve with your favorite sauce.",
+            "rating": 4.8
+          },
+          {
+            "name": "Çıtır Tavuk",
+            "ingredients": ["chicken breast", "flour", "egg", "breadcrumbs", "spices"],
+            "method": "Cut chicken breast into strips, then coat in flour, egg, and breadcrumbs mixed with spices. Deep-fry until golden brown, then serve with your favorite dipping sauce.",
+            "rating": 4.7
+          },
+          {
+            "name": "Künefe",
+            "ingredients": ["kadayıf", "cheese", "syrup", "butter", "pistachios"],
+            "method": "Layer kadayıf with cheese, then bake in the oven until the cheese is melted and the kadayıf is crispy. Pour syrup over the top, then sprinkle with chopped pistachios.",
+            "rating": 4.9
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Ayşe Teyze",
+        "picture": "https://media.istockphoto.com/id/1473035092/photo/a-portrait-of-a-male-sushi-chef.jpg?s=612x612&w=0&k=20&c=tfyc1-IhbdUX2R6vyL9P0N2C3jc6UbRIGZyJCAC7WyY=",
+        "experience": 25,
+        "likes": 30000,
+        "description": "Ayşe Teyze is a Turkish home cook and grandmother. With over 25 years of experience in the kitchen, she is known for her classic and comforting approach to Turkish cuisine.",
+        "num_recipes": 3,
+        "recipes": [
+          {
+            "name": "Mercimek Çorbası",
+            "ingredients": ["red lentils", "onion", "carrots", "potatoes", "spices"],
+            "method": "Sauté onion, carrots, and potatoes in a pot, then add red lentils and water. Bring to a boil, then reduce heat and simmer until the lentils are tender. Season with spices, then serve hot.",
+            "rating": 4.6
+          },
+          {
+            "name": "Tavuklu Nohut",
+            "ingredients": ["chicken thighs", "chickpeas", "tomatoes", "onion", "spices"],
+            "method": "Sauté chicken thighs in a pot until lightly browned, then remove from pan. In the same pan, sauté onion and tomatoes until softened, then add chickpeas and water. Bring to a boil, then reduce heat and simmer until the chickpeas are tender. Stir in the cooked chicken, then season with spices and serve hot.",
+            "rating": 4.4
+          },
+          {
+            "name": "Kabak Tatlısı",
+            "ingredients": ["pumpkin", "sugar", "water", "cinnamon", "walnuts"],
+            "method": "Peel and dice pumpkin, then cook in a pot with sugar and water until tender. Stir in cinnamon, then let simmer until the liquid has reduced and thickened. Serve cold with chopped walnuts.",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Mehmet Gürs",
+        "picture": "https://media.istockphoto.com/id/1457269879/photo/chefs-making-candy.jpg?s=612x612&w=0&k=20&c=hNLl6sXH4j-RRVSWqqCWNMMYunISEHOhcmgkuIheoMo=",
+        "experience": 30,
+        "likes": 35000,
+        "description": "Mehmet Gürs is a Turkish chef and restaurateur. With over 30 years of experience in the culinary industry, he is known for his innovative and contemporary approach to Turkish cuisine.",
+        "num_recipes": 3,
+        "recipes": [
+          {
+            "name": "Mercimek Köftesi",
+            "ingredients": ["red lentils", "bulgur", "onion", "parsley", "spices"],
+            "method": "Cook red lentils until tender, then mash with bulgur, onion, and parsley. Form into balls or patties, then serve cold with lettuce and lemon wedges.",
+            "rating": 4.6
+          },
+          {
+            "name": "Midye Dolma",
+            "ingredients": ["mussels", "rice", "raisins", "pine nuts", "spices"],
+            "method": "Clean mussels and stuff with a mixture of rice, raisins, pine nuts, and spices. Steam until cooked through, then serve hot with lemon wedges.",
+            "rating": 4.5
+          },
+          {
+            "name": "Kuzu Şiş",
+            "ingredients": ["lamb", "onion", "peppers", "spices", "yogurt"],
+            "method": "Marinate lamb in a mixture of onion, peppers, and spices, then skewer and grill or broil until cooked through. Serve with yogurt sauce and grilled vegetables.",
+            "rating": 4.8
+          }
+        ]
+      }
+    ]
